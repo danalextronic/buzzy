@@ -1,0 +1,1204 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"to",
+				"token"
+			],
+			[
+				"Re",
+				"Request"
+			],
+			[
+				"R",
+				"Request"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"co",
+				"comment"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"fo",
+				"foreach	foreach …"
+			],
+			[
+				"is_nu",
+				"is_numeric"
+			],
+			[
+				"fro",
+				"form	Tag"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"ex",
+				"explode"
+			],
+			[
+				"video",
+				"video_type"
+			],
+			[
+				"embed",
+				"embed_link"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/var/www/html/codecan/app/Http/routes.php",
+			"settings":
+			{
+				"buffer_size": 7012,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/codecan/app/Http/Controllers/UsersController.php",
+			"settings":
+			{
+				"buffer_size": 11798,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/codecan/resources/views/pages/users/options.blade.php",
+			"settings":
+			{
+				"buffer_size": 3447,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/codecan/public/assets/css/application.css",
+			"settings":
+			{
+				"buffer_size": 94879,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/codecan/resources/views/app.blade.php",
+			"settings":
+			{
+				"buffer_size": 5638,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/codecan/resources/views/_particles/header.blade.php",
+			"settings":
+			{
+				"buffer_size": 10743,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/tmp/fz3temp-1/article_details.blade.php",
+			"settings":
+			{
+				"buffer_size": 4977,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/codecan/app/Http/Controllers/PostsController.php",
+			"settings":
+			{
+				"buffer_size": 24178,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/codecan/resources/views/posts/newCreate.blade.php",
+			"settings":
+			{
+				"buffer_size": 8998,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/codecan/resources/views/posts/create-sidebar.blade.php",
+			"settings":
+			{
+				"buffer_size": 3966,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/codecan/resources/views/posts/editCreate.blade.php",
+			"settings":
+			{
+				"buffer_size": 10110,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/codecan/resources/views/posts/postimages.blade.php",
+			"settings":
+			{
+				"buffer_size": 1782,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/codecan/resources/views/pages/post.blade.php",
+			"settings":
+			{
+				"buffer_size": 11159,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/codecan/resources/views/_particles/_lists/pollslist.blade.php",
+			"settings":
+			{
+				"buffer_size": 3235,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/codecan/resources/views/_particles/_lists/quizentrylist.blade.php",
+			"settings":
+			{
+				"buffer_size": 5776,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/codecan/app/Http/Middleware/CustomAuthenticate.php",
+			"settings":
+			{
+				"buffer_size": 910,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/codecan/app/Http/Kernel.php",
+			"settings":
+			{
+				"buffer_size": 1197,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/codecan/app/Http/Middleware/Authenticate.php",
+			"settings":
+			{
+				"buffer_size": 888,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 390.0,
+		"last_filter": "Package Control",
+		"selected_items":
+		[
+			[
+				"Package Control",
+				"Package Control: Add Repository"
+			],
+			[
+				"pa",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"https://github.com/Medalink/laravel-blade.git",
+			"http://wbond.net/sublime_packages/package_control/installation",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/article_details.blade.php",
+		"/var/www/html/codecan/resources/views/vendor/docs/index.blade.php",
+		"/var/www/html/codecan/resources/views/pages/users/dashboard.blade.php",
+		"/var/www/html/MarcetMe/app/Http/routes.php",
+		"/var/www/html/codecan/resources/views/posts/add-entry.blade.php",
+		"/var/www/html/MarcetMe/app/Http/Middleware/Authenticate.php",
+		"/var/www/html/MarcetMe/app/Http/Middleware/AdminAuth.php",
+		"/var/www/html/demoLaravel/config/app.php",
+		"/var/www/html/demoLaravel/app/Http/Kernel.php",
+		"/var/www/html/demoLaravel/config/view.php",
+		"/var/www/html/demoLaravel/app/Http/routes.php",
+		"/var/www/html/demoLaravel/app/Http/Requests/Request.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/app/Http/Controllers/BlogController.php",
+		"/tmp/fz3temp-1/BlogController.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/app/Http/routes.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/blog_list.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/app/Http/Controllers/ArticleController.php",
+		"/home/koushikdutta/Desktop/SlickContactForm/xHTML/index.html",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/forgotPassword/password.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/emails/registerEmail.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/login/login.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/forgotPassword/recovery.blade.php",
+		"/tmp/fz3temp-1/login.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/app/Http/Controllers/UserController.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/admin/article/list.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/emails/forgotPasswordEmail.blade.php",
+		"/tmp/fz3temp-1/UserController.php",
+		"/tmp/fz3temp-1/forgotPasswordEmail.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/config/app.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/config/services.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/config/mail.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/index.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/editUser.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/contactUs.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/emails/contactEmail.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/register.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/app/Http/Controllers/admin/HomeController.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/app/Models/User.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/app/Http/Controllers/admin/Auth/AuthController.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/app/Http/Controllers/admin/Auth/PasswordController.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/app/Http/Controllers/admin/UserController.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/forgotPassword/login.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/app/Models/UUID.php",
+		"/tmp/fz3temp-1/registerEmail.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/emails/register.blade.php",
+		"/tmp/fz3temp-1/contactEmail.blade.php",
+		"/tmp/fz3temp-1/mail.php",
+		"/tmp/fz3temp-1/app.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/editBlog.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/auth/login.blade.php",
+		"/tmp/fz3temp-1/contactUs.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/app/Http/Controllers/UserCommentController.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/app/Http/Controllers/CmsController.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/app/Http/Controllers/HomeController.php",
+		"/tmp/fz3temp-1/services.php",
+		"/tmp/fz3temp-1/AuthController.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/home.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/forum_list.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/app/Http/Controllers/admin/BlogController.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/admin/home.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/app/Http/Controllers/ForumController.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/admin/blog/list.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/config/database.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/admin/Business/list.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/admin/Business/view.blade.php",
+		"/var/www/html/quick_admin/config/app.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/app/Http/Controllers/admin/UserBusinessController.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/app/Models/Forum.php",
+		"/tmp/fz3temp-1/general_message_edit.blade.php",
+		"/tmp/fz3temp-1/footerArticle.blade.php",
+		"/home/koushikdutta/Desktop/marcetme_02_05_16/vendor/laravel/framework/src/Illuminate/Database/Connection.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/app/Http/Controllers/BusinessController.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/searchBusiness.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/businessByCategory.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/business.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/public/css/style.css",
+		"/tmp/fz3temp-1/register.blade.php",
+		"/tmp/fz3temp-1/HomeController.php",
+		"/tmp/fz3temp-1/index.blade.php",
+		"/tmp/fz3temp-1/home.blade.php",
+		"/tmp/fz3temp-1/app.blade.php",
+		"/tmp/fz3temp-1/default.blade.php",
+		"/tmp/fz3temp-1/footerEditBusiness.blade.php",
+		"/var/www/html/codecan/app/Providers/EventServiceProvider.php",
+		"/var/www/html/codecan/resources/views/_particles/_lists/items_list.blade.php",
+		"/var/www/html/codecan/resources/views/pages/catpostloadpage.blade.php",
+		"/var/www/html/codecan/resources/views/pages/showcategory.blade.php",
+		"/var/www/html/codecan/app/Http/Helpers.php",
+		"/var/www/html/codecan/app/Http/Controllers/PagesController.php",
+		"/var/www/html/codecan/public/assets/css/component.css",
+		"/var/www/html/codecan/public/assets/css/application.css",
+		"/var/www/html/codecan/resources/views/_particles/_lists/pollslist.blade.php",
+		"/var/www/html/codecan/public/assets/js/buzzyeditor.min.js",
+		"/var/www/html/quick_admin/config/database.php",
+		"/var/www/html/codecan/public/assets/js/app.min.js",
+		"/var/www/html/codecan/resources/views/_particles/_lists/quizentrylist.blade.php",
+		"/var/www/html/codecan/resources/views/_particles/_lists/entryslists.blade.php",
+		"/var/www/html/codecan/resources/views/_particles/others/postsociallinks.blade.php",
+		"/var/www/html/codecan/app/Http/Controllers/PostsController.php",
+		"/var/www/html/codecan/resources/views/pages/post.blade.php",
+		"/var/www/html/codecan/app/Http/routes.php",
+		"/var/www/html/codecan/config/database.php",
+		"/var/www/html/codecan/app/Http/Controllers/PollController.php",
+		"/var/www/html/MarcetMe/config/app.php",
+		"/var/www/html/MarcetMe/.env~",
+		"/var/www/html/codecan/.env~",
+		"/var/www/html/codecan/app/PollVotes.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/admin/userManage/list.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/layouts/sideBar.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/advanceSearch.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/app/Models/Business.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/app/Http/Classes/Common.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/admin/layouts/default.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/admin/includes/left-menu.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/admin/includes/header.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/blog_details.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/businessView.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/admin/generalMessage/general_message_edit.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/app/Http/Controllers/admin/CmsController.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/app/Http/Controllers/admin/CategoryController.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/app/Http/Controllers/admin/BusinessSuccessController.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/app/Http/Controllers/admin/ArticleController.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/app/Http/Controllers/SuccessController.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/admin/user/view.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/editBusiness.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/admin/cms/cms_edit.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/admin/UserComment/list.blade.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.9,share=share/project/MarcetMe/resources/views/admin/success/success_edit.blade.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Add New Entry",
+			" modified 26.05.16 --> ",
+			"header__logo",
+			".modal",
+			".icons_area",
+			"Quiz Entries",
+			"three_part library",
+			"/images/Library.png",
+			"profile",
+			"profile/admin/options",
+			"description",
+			"Edit Quiz",
+			"\">\n",
+			".quizentrylist",
+			"quizentrylist",
+			"entry",
+			"Where to post ?",
+			"Quiz Entries",
+			"create",
+			"new=quiz",
+			"create?new=quiz",
+			"CustomAuthenticate",
+			"/",
+			"index",
+			",\n",
+			"contact",
+			"blogs",
+			"studentObj",
+			"DB::table('users')",
+			"add",
+			"getLo",
+			"#FF8601",
+			">\n",
+			" \n",
+			"answer-cover",
+			"data-answer",
+			"sub-title",
+			"green",
+			".post .external-sign-in a",
+			".option-selection a.active",
+			"entry",
+			"answer-cover",
+			"entry",
+			"particles.others.postsociallinks",
+			"index",
+			"slug",
+			"/type/slug",
+			"getcong",
+			"type",
+			"makeposturl",
+			"item bolb titb",
+			"poll",
+			"polls",
+			"Latest Polls",
+			"item-cover",
+			"polls",
+			"poll",
+			"}\n",
+			"commmon",
+			"categoeyQueryPart",
+			"Common",
+			"hello",
+			"print_r",
+			"         ",
+			"verify",
+			"commentVerify",
+			"userId",
+			"details",
+			"businessVerify",
+			"username",
+			"ModelNotFoundException",
+			"]->",
+			">\n",
+			"alert-success-message",
+			"edit-blog",
+			"Auth",
+			"home",
+			"dashboard",
+			"Dashboard",
+			"Back",
+			"')}}\" ",
+			"Cms",
+			"homecontent",
+			"contact",
+			"family-and-work",
+			"Lifestyle-Blogs",
+			"contac",
+			"any",
+			"/",
+			"users/login",
+			"/admin/users/login",
+			"admin/users/login",
+			"/admin",
+			"admin",
+			"in-the-sample-time",
+			"searchCombination",
+			"();\n",
+			"findCalculationFields",
+			"Article",
+			"forum",
+			"article",
+			"Article",
+			"article",
+			"echo json_encode",
+			"register",
+			"user-register",
+			"article_section",
+			"imageDiv",
+			"tarea",
+			"latestarticle"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/var/www/html/codecan/app/Http/routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7012,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6726,
+								6726
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 146.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/var/www/html/codecan/app/Http/Controllers/UsersController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11798,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11539,
+								11539
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/var/www/html/codecan/resources/views/pages/users/options.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3447,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 15.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/var/www/html/codecan/public/assets/css/application.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 94879,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								94877,
+								94877
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 59348.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/var/www/html/codecan/resources/views/app.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5638,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4332,
+								4332
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 765.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/var/www/html/codecan/resources/views/_particles/header.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10743,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								150,
+								150
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/tmp/fz3temp-1/article_details.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4977,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28,
+								28
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/var/www/html/codecan/app/Http/Controllers/PostsController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3117,
+								3117
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 206.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/var/www/html/codecan/resources/views/posts/newCreate.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8998,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8815,
+								8815
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2835.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/var/www/html/codecan/resources/views/posts/create-sidebar.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3966,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2570,
+								2570
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 540.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/var/www/html/codecan/resources/views/posts/editCreate.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4618,
+								4618
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1935.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/var/www/html/codecan/resources/views/posts/postimages.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1782,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								225,
+								225
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/var/www/html/codecan/resources/views/pages/post.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1352,
+								1352
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 65.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/var/www/html/codecan/resources/views/_particles/_lists/pollslist.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3235,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12,
+								12
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/var/www/html/codecan/resources/views/_particles/_lists/quizentrylist.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5776,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/var/www/html/codecan/app/Http/Middleware/CustomAuthenticate.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 910,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								819,
+								819
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/var/www/html/codecan/app/Http/Kernel.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1197,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1130,
+								1130
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "/var/www/html/codecan/app/Http/Middleware/Authenticate.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 888,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								888,
+								888
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "RouteServiceProvider.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
